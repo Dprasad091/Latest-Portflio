@@ -82,9 +82,12 @@ src/
 public/
 
 ---
-## Run Locally
 
+## 🚀 Run Locally
+
+```bash
 git clone https://github.com/Dprasad091/<portfolio-repo>.git
 cd <portfolio-repo>
 npm install
 npm run dev
+---
